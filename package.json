@@ -2,6 +2,7 @@
   "name": "NuxtStore",
   "version": "1.0.0",
   "private": true,
+  "author": "andrew2020wit",
   "scripts": {
     "dev": "nuxt-ts",
     "start": "nuxt-ts",
