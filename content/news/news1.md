@@ -1,3 +1,3 @@
-# My first blog post
+# Title of news1
 
-Welcome to my first blog post using content module
+text of news1
